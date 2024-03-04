@@ -27,5 +27,6 @@ Let's connect! Feel free to reach out if you have any questions, collaboration o
 
 - **Email:** ivailoatanassovv@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ivaylo-atanasov-7aa413268/
+-  **Portfolio** ivailo.dev
 
 Looking forward to new challenges and opportunities! 😊
