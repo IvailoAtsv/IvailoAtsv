@@ -13,9 +13,9 @@ I'm a passionate web developer with expertise in front-end and full-stack develo
 ## Stats
 <div align="left" valign="center">
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoAtsv&theme=tokyonight&layout=compact" />
+<img height="200px" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoAtsv&theme=tokyonight&layout=compact" />
 
-<img height="200px" src="https://streak-stats.demolab.com/?user=IvailoAtsv&theme=tokyonight" />
+<img height="200px" width="59%" src="https://streak-stats.demolab.com/?user=IvailoAtsv&theme=tokyonight" />
 
 </div>
 
