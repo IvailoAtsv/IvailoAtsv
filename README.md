@@ -1,5 +1,5 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=b06bf3&lines=Hi+There!+👋;+My+name+is+Ivaylo+Atanasov.;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&vCenter=true&height=50&duration=4000&color=b06bf3&lines=Hi+There!+👋;+My+name+is+Ivaylo+Atanasov.;" />
 
 I'm a passionate web developer with expertise in front-end and full-stack development. I love building user-friendly and visually appealing web applications.
 
@@ -28,8 +28,8 @@ Here are a few projects I've worked on:
 
 - **Alcona Solutions:** https://github.com/IvailoAtsv/alcona-solutions
 - **Personal trainer Ignis:** https://github.com/IvailoAtsv/Ignis
-- **Windy Hills website** https://github.com/IvailoAtsv/windyHills
-- **Personal Portfolio** https://github.com/IvailoAtsv/portfolio
+- **Windy Hills website:** https://github.com/IvailoAtsv/windyHills
+- **Personal Portfolio:** https://github.com/IvailoAtsv/portfolio
 
 ## Contact Me
 
@@ -45,7 +45,7 @@ Let's connect! Feel free to reach out if you have any questions, collaboration o
   </a>
 
   <a target="_blank" href="https://www.ivailo.dev" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-2f2f2f?style=for-the-badge&logo=todoist&logoColor=b06bf3" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-2f2f2f?style=for-the-badge&logo=read.cv&logoColor=b06bf3" target="_blank" />
   </a><br/><br/>
 
 Looking forward to new challenges and opportunities!
