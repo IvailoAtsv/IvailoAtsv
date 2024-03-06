@@ -1,13 +1,12 @@
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&vCenter=true&height=50&duration=4000&color=b06bf3&lines=Hi+There!+👋;+My+name+is+Ivaylo+Atanasov.;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&vCenter=true&height=50&duration=4000&color=6f9ef3&lines=Hi+There!+👋;+My+name+is+Ivaylo+Atanasov.;" />
 
 I'm a passionate web developer with expertise in front-end and full-stack development. I love building user-friendly and visually appealing web applications.
 
 ## Tech Skills:
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,express" />
-    <img src="https://skillicons.dev/icons?i=mui,html,css,tailwind,mongodb,github,git" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,express,mui,html,css,tailwind,mongodb,github,git&perline=6" />
 </div><br/>
 
 ## Stats
@@ -31,7 +30,7 @@ Here are a few projects I've worked on:
 - **Windy Hills website:** https://github.com/IvailoAtsv/windyHills
 - **Personal Portfolio:** https://github.com/IvailoAtsv/portfolio
 
-## Contact Me
+## Contacts
 
 Let's connect! Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat.
 
@@ -40,12 +39,14 @@ Let's connect! Feel free to reach out if you have any questions, collaboration o
     <img src="https://img.shields.io/badge/Gmail-9e9e9e?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
-  <a target="_blank" href="https://www.linkedin.com/in/ivaylo-atanasov-7aa413268/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a target="_blank" href="https://www.linkedin.com/in/ivaylo-atanasov-7aa413268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a target="_blank" href="https://www.ivailo.dev" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-2f2f2f?style=for-the-badge&logo=read.cv&logoColor=b06bf3" target="_blank" />
-  </a><br/><br/>
+     <img src="https://img.shields.io/badge/Portfolio-2f2f2f?style=for-the-badge&logo=read.cv&logoColor=b06bf3" />
+  </a>
+  
+  <br/><br/>
 
 Looking forward to new challenges and opportunities!
