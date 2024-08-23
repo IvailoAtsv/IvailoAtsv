@@ -26,8 +26,8 @@ I thrive on challenges and have a keen eye for detail. I am constantly learning 
 Here are a few projects I've worked on:
 
 - **Alcona Solutions:** https://github.com/IvailoAtsv/alcona-solutions
+- **Misfire:** https://github.com/IvailoAtsv/misfire-next
 - **Personal trainer Ignis:** https://github.com/IvailoAtsv/Ignis
-- **Windy Hills website:** https://github.com/IvailoAtsv/windyHills
 - **Personal Portfolio:** https://github.com/IvailoAtsv/portfolio
 
 ## Contacts
